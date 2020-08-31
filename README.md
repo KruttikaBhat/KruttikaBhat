@@ -1,7 +1,11 @@
 ### Hello!
 Welcome to my Github profile. I'm Kruttika Bhat, an aspiring cognitive scientist. Still a newbie but hoping to get there one day. Currently I'm pursuing an M. Tech. in Computer Engineering.
 
-You can reach me on <a href="https://www.linkedin.com/in/kruttika-bhat/">LinkedIn</a>, Instagram and Facebook!
+## Reach me on
+- <a href="https://www.linkedin.com/in/kruttika-bhat/">LinkedIn</a>
+- <a href="https://www.instagram.com/kruttika_bhat/">Instagram</a> 
+- <a href="https://www.facebook.com/profile.php?id=100012346302585">Facebook</a>
+- <a href="https://twitter.com/gk_bookie">Twitter</a>
 
 <!--
 **kix379/kix379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
