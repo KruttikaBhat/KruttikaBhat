@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Kruttika's github stats](https://github-readme-stats.vercel.app/api?username=kix379&show_icons=true&theme=radical)](https://github.com/kix379/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kix379)](https://github.com/kix379/github-readme-stats)
