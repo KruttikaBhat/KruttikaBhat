@@ -28,5 +28,3 @@ Here are some ideas to get you started:
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kix379&layout=compact)](https://github.com/kix379/github-readme-stats)
-
-[1]: https://www.linkedin.com/in/kruttika-bhat/
