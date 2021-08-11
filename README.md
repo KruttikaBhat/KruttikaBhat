@@ -1,5 +1,5 @@
 ### Hello!
-Welcome to my Github profile. I'm Kruttika Bhat, an aspiring cognitive scientist. Still a newbie but hoping to get there one day. Currently I'm pursuing an M. Tech. in Computer Engineering.
+Welcome to my Github profile. I'm an aspiring cognitive neuroscientist. Still a newbie but hoping to get there one day. Currently I'm a project intern in the Cognition Lab, IISc Bangalore.
 
 ## Reach me on
 - <a href="https://www.linkedin.com/in/kruttika-bhat/">LinkedIn</a>
