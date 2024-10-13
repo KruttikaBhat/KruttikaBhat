@@ -1,5 +1,5 @@
 ### Hello!
-Welcome to my Github profile. I'm currently a graduate student at Stanford University. My research focused on developing online math assessments for K-12 to identify struggling learners. I'm also interested in the cognition skills involved in reading and math, and how this getss affected in children with learning difficulties.
+Welcome to my Github profile. I'm currently a graduate student at Stanford University. My research focuses on developing online math assessments for K-12 in order to identify struggling learners. I'm also interested in the cognitive skills involved in reading and math, how this gets affected in children with learning difficulties, and translating this research to educational technology.
 
 ## Reach me on
 - <a href="https://www.linkedin.com/in/kruttika-bhat/">LinkedIn</a>
@@ -21,10 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-## GitHub Stats
-[![Kruttika's github stats](https://github-readme-stats.vercel.app/api?username=KruttikaBhat&show_icons=true)](https://github.com/KruttikaBhat/github-readme-stats)
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KruttikaBhat&layout=compact)](https://github.com/KruttikaBhat/github-readme-stats)
