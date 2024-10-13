@@ -1,5 +1,5 @@
 ### Hello!
-Welcome to my Github profile. I'm an aspiring cognitive neuroscientist. Still a newbie but hoping to get there one day. Currently I'm a project associate in the Cognition Lab, IISc Bangalore.
+Welcome to my Github profile. I'm currently a graduate student at Stanford University. My research focused on developing online math assessments for K-12 to identify struggling learners. I'm also interested in the cognition skills involved in reading and math, and how this getss affected in children with learning difficulties.
 
 ## Reach me on
 - <a href="https://www.linkedin.com/in/kruttika-bhat/">LinkedIn</a>
